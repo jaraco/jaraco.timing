@@ -38,8 +38,7 @@ setup_params = dict(
 	] + pytest_runner + sphinx + wheel,
 	tests_require=[
 		'pytest>=2.8',
-		'backports.unittest_mock',
-	],
+	] + ['backports.unittest_mock'] if sys.version_info < (3, 3) else [],
 	classifiers=[
 		"Development Status :: 5 - Production/Stable",
 		"Intended Audience :: Developers",
