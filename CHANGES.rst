@@ -4,6 +4,8 @@
 All functionality moved to the `tempora
 <https://pypi.org/project/tempora>`_ project.
 
+Configured automatic deployment (for the last release).
+
 1.2
 ===
 
