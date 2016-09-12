@@ -1,3 +1,9 @@
+1.3
+===
+
+All functionality moved to the `tempora
+<https://pypi.org/project/tempora>`_ project.
+
 1.2
 ===
 
