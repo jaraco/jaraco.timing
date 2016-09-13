@@ -1,3 +1,9 @@
+1.3.1
+=====
+
+Use absolute import to avoid attempting to import
+jaraco.tempora from jaraco.util.
+
 1.3
 ===
 
