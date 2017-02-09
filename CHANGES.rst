@@ -1,3 +1,8 @@
+1.3.2
+=====
+
+Refresh build with updated skeleton.
+
 1.3.1
 =====
 
