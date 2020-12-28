@@ -2,5 +2,5 @@ import jaraco.timing
 
 
 def test_compat():
-	"Ensure module still functions"
-	jaraco.timing.Stopwatch()
+    "Ensure module still functions"
+    jaraco.timing.Stopwatch()

@@ -6,6 +6,6 @@ from tempora.timing import *  # noqa
 
 
 warnings.warn(
-	"Use the tempora.timing package instead",
-	DeprecationWarning,
+    "Use the tempora.timing package instead",
+    DeprecationWarning,
 )
