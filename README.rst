@@ -1,10 +1,7 @@
 .. image:: https://img.shields.io/pypi/v/jaraco.timing.svg
-   :target: `PyPI link`_
+   :target: https://pypi.org/project/jaraco.timing
 
 .. image:: https://img.shields.io/pypi/pyversions/jaraco.timing.svg
-   :target: `PyPI link`_
-
-.. _PyPI link: https://pypi.org/project/jaraco.timing
 
 .. image:: https://github.com/jaraco/jaraco.timing/workflows/tests/badge.svg
    :target: https://github.com/jaraco/jaraco.timing/actions?query=workflow%3A%22tests%22
