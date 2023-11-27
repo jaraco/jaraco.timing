@@ -1,3 +1,18 @@
+v3.0.0
+======
+
+Features
+--------
+
+- Require Python 3.8 or later.
+
+
+Deprecations and Removals
+-------------------------
+
+- Removed all functionality.
+
+
 2.0
 ===
 
