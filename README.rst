@@ -20,6 +20,3 @@
 
 .. image:: https://img.shields.io/badge/skeleton-2023-informational
    :target: https://blog.jaraco.com/skeleton
-
-jaraco.timing is deprecated. Use `tempora <https://pypi.org/project/tempora>`_
-instead.
